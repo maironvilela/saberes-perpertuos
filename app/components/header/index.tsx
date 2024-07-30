@@ -9,6 +9,10 @@ export const Header = () => {
       label: 'home',
       href: '/',
     },
+    {
+      label: 'Artigo',
+      href: '/view-pdf',
+    },
   ]
   return (
     <>
