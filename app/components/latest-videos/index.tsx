@@ -20,6 +20,9 @@ export const LatestVideos = () => {
 
   const VIDEOS = [
     {
+      url: 'CFzmWmhL0iw?si=A2PB0l63Jee-hBD4',
+    },
+    {
       url: 'pAFdf8RPZ0Y?si=2ro47LjrunFGBhUp',
     },
     {

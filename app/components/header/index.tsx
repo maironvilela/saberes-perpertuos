@@ -21,7 +21,7 @@ export const Header = () => {
           <Link href="/">
             <figure>
               <Image
-                src="/images/logo-saberes-perpertuo.jpg"
+                src="/images/logo-saberes-perpertuo.png"
                 width={50}
                 height={50}
                 alt={''}
@@ -34,9 +34,10 @@ export const Header = () => {
         </div>
 
         <div>
+          {/*
           {NAV_ITEMS.map((item) => (
             <NavItem {...item} key={item.label} />
-          ))}
+          ))} */}
         </div>
       </header>
     </>
