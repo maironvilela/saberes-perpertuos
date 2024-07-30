@@ -5,7 +5,9 @@ export const About = () => {
     <section className="container flex flex-col gap-4">
       <div className="flex flex-row gap-2 justify-center ">
         <div className="flex flex-col gap-3  ">
-          <h2 className="font-mono py-5 ">Sobre o projeto</h2>
+          <h2 className="font-mono py-5 text-xl text-emerald-500 ">
+            Sobre o projeto
+          </h2>
           <p className="w-[full]">
             Esse canal foi criado para compartilhar imagens coletadas durante
             minha pesquisa de mestrado intitulada{' '}
